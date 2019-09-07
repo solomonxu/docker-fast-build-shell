@@ -19,7 +19,7 @@ Build docker image secondly, and output time stamps before and after build. This
 ## 4. Delete the final docker image.
 Delete the final docker image, and leave pre-image alone.
 
-`make clean-diag`
+`make cleanup-diag`
 
 ## 5. Thirdly build.
 Build docker image thirdly, and output time stamps before and after build. This will build final image only, and just cost less than 2 seconds. 
