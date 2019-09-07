@@ -33,3 +33,5 @@ Build docker image thirdly, and output time stamps before and after build. This 
 ## 7. Cleanup all images locally.
 
 `make cleanup`
+
+You can find a Chinese article [How to build docker image of shell rapidly](https://github.com/solomonxu/docker-fast-build-shell/blob/master/docs/How%20to%20build%20docker%20image%20of%20shell%20rapidly_zh.pdf) and click to download.
